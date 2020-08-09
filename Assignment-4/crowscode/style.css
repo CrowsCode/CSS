@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+body
+{
+padding-top:20px;
+padding-bottom:20px;
+font-family: Source sans pro;
+}
+.container
+{
+    margin:auto;
+    border: 20px solid #2c3e50;
+    width:50%;
+}
+
+.post
+{
+     margin:20px;  
+}
+.date
+{
+    color: orange;
+    letter-spacing:4.5px;
+
+}
+.quotes
+{
+    border-left: 5px solid orange;
+    padding-left: 5px;
+}
+h2
+{
+    color:#2c3e50;
+    font-size: 2.0rem;
+}
+hr
+{
+    margin:auto;
+    width:90%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+
+
